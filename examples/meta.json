@@ -1,7 +1,5 @@
 {
-  "name": "pool name",
-  "ticker": "pool ticker", 
-  "description": "Hello World!", 
-  "homepage": "https://cexplorer.io", 
-  "extended": "https://raw.githubusercontent.com/cardanians/cexplorer.io/master/examples/extended-metadata.json"
-}
+  "name": "pool name", "ticker": "pool ticker", 
+"description": "Hello World!", "homepage": "https://cexplorer.io",
+   "extended": "https://raw.githubusercontent.com/cardanians/cexplorer.io/master/examples/extended-metadata.json"
+}     
